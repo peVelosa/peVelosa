@@ -1,3 +1,5 @@
+`peVelosa/README.md`
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -6,6 +8,8 @@
 </div>
 
 ---
+
+# &#60;Pedro&#47;&#62;
 
 ### :man_technologist: About Me :
 <div id="about-me">
@@ -42,11 +46,11 @@ I am hardworking, committed to my tasks and selftaught. I'm certainly not a **St
 
 ### :fire: My Stats :
 <div id="stats">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peVelosa&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
   <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pevelosa&show_icons=true&locale=en&layout=compact&theme=dark" alt="pevelosa" />  
-    <img src="https://github-readme-stats.vercel.app/api?username=pevelosa&show_icons=true&locale=en&theme=dark" alt="pevelosa" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pevelosa&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="pevelosa" height="180em"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pevelosa&show_icons=true&locale=en&layout=compact&theme=dark&lang_count=16" alt="pevelosa" height="180em"/> 
   </div>
 </div>
 
