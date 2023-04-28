@@ -1,5 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pedrovelosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+
+---
+
 ### :man_technologist: About Me :
-I'm a 21 years old developer from **Brazil** that loves technology. I'm always studying and **I don't like poorly done work**.  
+<div id="about-me">
+  I'm a 21 years old developer from **Brazil** that loves technology. I'm always studying and **I don't like poorly done work**.  
 
 I am hardworking, committed to my tasks and selftaught. I'm certainly not a **Steve Jobs** or a **Brian Holt**, but I'm constantly trying to improve myself.  
 
@@ -10,10 +20,12 @@ I am hardworking, committed to my tasks and selftaught. I'm certainly not a **St
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - 💬 Ask me about **react**
+</div>
+
 
 ### Languages and Tools:
 
-<div>
+<div id="languages-tools">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40"      height="40"/>&nbsp;
@@ -29,11 +41,15 @@ I am hardworking, committed to my tasks and selftaught. I'm certainly not a **St
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peVelosa&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<div id="stats">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peVelosa&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pevelosa&show_icons=true&locale=en&layout=compact&theme=dark" alt="pevelosa" />  
+    <img src="https://github-readme-stats.vercel.app/api?username=pevelosa&show_icons=true&locale=en&theme=dark" alt="pevelosa" />
+  </div>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pevelosa&show_icons=true&locale=en&layout=compact&theme=dark" alt="pevelosa" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=pevelosa&show_icons=true&locale=en&theme=dark" alt="pevelosa" />
 
 
 
