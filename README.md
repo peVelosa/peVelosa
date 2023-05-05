@@ -4,6 +4,9 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pedrovelosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
+<div id="header" align="center">
+  <p>"Do not hold on to possessions you no longer need"</p>
+</div>
 
 ---
 
@@ -11,8 +14,9 @@
 
 ### :man_technologist: About Me :
 <div id="about-me">
-  I'm a 21 years old developer from **Brazil** that loves technology. I'm always studying and **I don't like poorly done work**.  
-
+  
+I'm a 21 years old developer from **Brazil** that loves technology. I'm always studying and **I don't like poorly done work**.  
+  
 I am hardworking, committed to my tasks and selftaught. I'm certainly not a **Steve Jobs** or a **Brian Holt**, but I'm constantly trying to improve myself.  
 
 - :telescope: I’m currently working on [to do app](https://to-do-app-pevelosa.vercel.app/)
