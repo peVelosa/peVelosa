@@ -19,7 +19,7 @@ I'm a 21 years old developer from **Brazil** that loves technology. I'm always s
   
 I am hardworking, committed to my tasks and selftaught. I'm certainly not a **Steve Jobs** or a **Brian Holt**, but I'm constantly trying to improve myself.  
 
-- :telescope: I’m currently working on [to do app](https://to-do-app-pevelosa.vercel.app/)
+- :telescope: I’m currently working on twitter-clone
 
 - :seedling: I’m currently learning **nodejs and flutter**
 
