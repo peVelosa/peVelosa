@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pedrovelosa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
@@ -12,7 +9,7 @@
 
 # &#60;Pedro&#47;&#62;
 
-### :man_technologist: About Me :
+### About Me:
 <div id="about-me">
   
 I'm a 21 years old developer from **Brazil** that loves technology. I'm always studying and **I don't like poorly done work**.  
@@ -46,11 +43,8 @@ I am hardworking, committed to my tasks and selftaught. I'm certainly not a **St
 
 ---
 
-### :fire: My Stats :
+### My Stats: 
 <div id="stats">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=pevelosa&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="pevelosa" height="180em"/>
-  </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pevelosa&show_icons=true&locale=en&layout=compact&theme=dark&lang_count=16" alt="pevelosa" height="180em"/> 
   </div>
