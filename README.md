@@ -12,11 +12,10 @@
 ### About Me:
 <div id="about-me">
   
-I'm a 21 years old developer from **Brazil** that loves technology. I'm always studying and **I don't like poorly done work**.  
-  
-I am hardworking, committed to my tasks and selftaught. I'm certainly not a **Steve Jobs** or a **Brian Holt**, but I'm constantly trying to improve myself.  
+Welcome to my GitHub repository! I'm a skilled developer proficient in React.js and Next.js, with a strong command of Angular.js and JavaScript. My expertise extends to TypeScript, allowing me to build robust web applications with ease. With a knack for unit testing and a passion for web development.  
+I'm dedicated to creating efficient and reliable solutions. Explore my projects to see firsthand how I leverage these skills to deliver high-quality software. 
 
-- :telescope: I’m currently working on twitter-clone
+- :telescope: I’m currently working on kanbify
 
 - :seedling: I’m currently learning **nodejs and flutter**
 
@@ -37,7 +36,6 @@ I am hardworking, committed to my tasks and selftaught. I'm certainly not a **St
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
